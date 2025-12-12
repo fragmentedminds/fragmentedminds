@@ -3,7 +3,7 @@
   <img src= https://i.postimg.cc/Dfxx8fhV/2025_12_12_04m_Kleki.png>
   <img src="https://i.postimg.cc/660w1ZNY/2025-12-12-04o-Kleki.png">
  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=1000&pause=1000&color=00B5BD&center=true&multiline=true&width=435&height=79&lines=BILL+CIPHER+.+.+.;.+.+.+DNI+**BILL**+SHIPS+!!!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=1000&pause=1000&color=00B5BD&center=true&multiline=true&width=435&height=79&lines=BILL+CIPHER+.+.+.;.+.+.+DNI+BILL+SHIPS+!!!" alt="Typing SVG" /></a>
 
 <div align="center">
   
