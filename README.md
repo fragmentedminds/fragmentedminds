@@ -42,7 +42,7 @@
     <!-- Replace the 'text' with info about people you do not want interacting  --> 
     <div align="center">
      
-   ${{\color{VioletRed}\large{\textsf{ 0:54- ━━━━●━━━━━━ -3:24 \ \}}}}\$  <br>
+   ${{\color{00B5BD}\large{\textsf{ 0:54- ━━━━●━━━━━━ -3:24 \ \}}}}\$  <br>
    <img src="https://64.media.tumblr.com/a6bdffe86136a5852781e2ce100991c5/06871f34b5ac756c-21/s500x750/210ff7d7a92ae479f178c4ab32dd2a6b3082d919.pnj">
 </div>
 
