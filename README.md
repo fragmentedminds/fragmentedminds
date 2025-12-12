@@ -28,8 +28,7 @@
 </p>
 
 <div align="center">
-
- <img align="center" src="https://64.media.tumblr.com/d0c2d861f3040eacc24dac46060e289a/06871f34b5ac756c-f3/s500x750/b4615caca1daa0a3bc0b5178ed6b23ef6288cb44.pnj">
+<img align="center" src="https://64.media.tumblr.com/d0c2d861f3040eacc24dac46060e289a/06871f34b5ac756c-f3/s500x750/b4615caca1daa0a3bc0b5178ed6b23ef6288cb44.pnj">
 
 <img align="right" width="180" height="180" src="https://graphic.neocities.org/cipher_4.gif">
 
