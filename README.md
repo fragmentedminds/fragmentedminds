@@ -14,7 +14,7 @@
 
 </div>
 
-  <img align="left" height="200" width="200" src="https://64.media.tumblr.com/e0ca94c6e3f4765cf570f062cf1aa17b/99b8931e1cf23bb0-f6/s100x200/484ed86312a0a1d8b0a99189d8dc41ff94dc46ec.gifv">
+  <img align="left" height="200" width="200" src="https://graphic.neocities.org/cipher_5.gif">
   
   ${{\color{VioletRed}\Large{\textsf{YES YES YES!    (˵ •̀ ᴗ - ˵ )\ \}}}}\$  <br> 
 
@@ -40,7 +40,7 @@
      
   ${{\color{VioletRed}\large{\textsf{ 0:54- ━━━━●━━━━━━ -3:24 \ \}}}}\$  <br>
 </div>
-<img src=https://64.media.tumblr.com/494f43a77fc511198310c7ac75828a3c/a141beeef0eba544-8a/s2048x3072/e3e479332f82c0b763146556ecf8b0e258a63fa9.pnj>
+<img src=\https://graphic.neocities.org/cipher_7.gif>
 
 
 <p align="center">
@@ -53,13 +53,11 @@
 </p>
 
 <div align="center">
-
-<sub>Template by [Eveleen](https://github.com/COUNTRY-HUMANS)
  
-[![credit](https://64.media.tumblr.com/9084775267f845a1366928f5328c31bb/34c4e2eea20083af-cc/s75x75_c1/db6a1ba2ef6a0dd6d78c236338edb81d327ec056.gifv)](https://www.tumblr.com/miceontheweb/720725585660411904/hatsune-miku-favicons)
-[![credit](https://64.media.tumblr.com/9084775267f845a1366928f5328c31bb/34c4e2eea20083af-cc/s75x75_c1/db6a1ba2ef6a0dd6d78c236338edb81d327ec056.gifv)](https://www.tumblr.com/thehatsunemiku/765536701736255488/blog-is-now-inactive?source=share)
-[![credit](https://64.media.tumblr.com/9084775267f845a1366928f5328c31bb/34c4e2eea20083af-cc/s75x75_c1/db6a1ba2ef6a0dd6d78c236338edb81d327ec056.gifv)](https://www.tumblr.com/faviconuploader/751010459593932800/miku-things?source=share )
-[![credit](https://64.media.tumblr.com/9084775267f845a1366928f5328c31bb/34c4e2eea20083af-cc/s75x75_c1/db6a1ba2ef6a0dd6d78c236338edb81d327ec056.gifv)](https://www.tumblr.com/kuro-web/769079000641536000/hatsune-miku-pixels-f2u-with-rebloglike?source=share)
-[![credit](https://64.media.tumblr.com/9084775267f845a1366928f5328c31bb/34c4e2eea20083af-cc/s75x75_c1/db6a1ba2ef6a0dd6d78c236338edb81d327ec056.gifv)](https://www.tumblr.com/omi-resources/771050704613916672/im-going-to-write-a-fanfic-and-i-was-hoping-for-a)
-[![credit](https://64.media.tumblr.com/9084775267f845a1366928f5328c31bb/34c4e2eea20083af-cc/s75x75_c1/db6a1ba2ef6a0dd6d78c236338edb81d327ec056.gifv)](https://www.tumblr.com/rwbyhate/772417900865781760/vocaloid-imvu-buttons-stamp)
+[![credit]([https://graphic.neocities.org/cipher_11.gif)](https://graphic.neocities.org/gf)
+[![credit](https://graphic.neocities.org/cipher_11.gif)
+[![credit](https://graphic.neocities.org/cipher_11.gif)
+[![credit](https://graphic.neocities.org/cipher_11.gif)
+[![credit](https://graphic.neocities.org/cipher_11.gif)
+[![credit](https://graphic.neocities.org/cipher_11.gif)
 </div>
