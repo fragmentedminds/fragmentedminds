@@ -10,7 +10,7 @@
   
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=fragmentedminds&color=00b5bd&style=plastic&label=BillViews!) <!-- this is a profile view counter! make sure to edit "YOUR-GITHUB-USERNAME"! --> 
   <img src="https://64.media.tumblr.com/87fd7110c697a45ae7a9d5a9e1b0923c/92b6402e4022ca16-c7/s75x75_c1/7192d36bd8977a46b434e65ac1931ed81fa62036.gifv">
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/fragmentedminds?color=00b5bd&style=plastic&abbreviated=false&label=BillFans!"/> <!-- this is a follower counter! make sure to edit "YOUR-GITHUB-USERNAME"! -->
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/fragmentedminds?color=00B5BD&style=plastic&abbreviated=false&label=BillFans!"/> <!-- this is a follower counter! make sure to edit "YOUR-GITHUB-USERNAME"! -->
 
 <img src=https://64.media.tumblr.com/a6bdffe86136a5852781e2ce100991c5/06871f34b5ac756c-21/s500x750/210ff7d7a92ae479f178c4ab32dd2a6b3082d919.pnj>
 
@@ -18,12 +18,12 @@
 
   <img align="left" height="200" width="200" src="https://graphic.neocities.org/cipher_1.gif">
   
-  ${{\color{VioletRed}\Large{\textsf{INTERESTS LIST!    (˵ •̀ ᴗ - ˵ )\ \}}}}\$  <br> 
+  ${{\color{00B5BD}\Large{\textsf{INTERESTS LIST!    (˵ •̀ ᴗ - ˵ )\ \}}}}\$  <br> 
 
 ♫ ~ <!-- you're safe to end anything beyond this --> Nice people! Friends! Vocaloid! FIVE NIGHTS AT FREDDYS! THE WALTEN FILES! THE MANDELA CATALOGUE! BLUEY! MY LITTLE PONY! BATMAN! COMIC BOOKS! WARRIOR CATS! <!-- you're safe to end anything before this --> <br>
     <!-- Replace the 'text' with info about yourself! -->
     <p align="center">
-  ${{\color{VioletRed}\large{\textsf{⇄⠀⠀⠀◁◁⠀ ▐  ▌ ⠀▷▷  ⠀ ⠀↻\ \}}}}\$  <br>
+  ${{\color{00B5BD}\large{\textsf{⇄⠀⠀⠀◁◁⠀ ▐  ▌ ⠀▷▷  ⠀ ⠀↻\ \}}}}\$  <br>
 
 </p>
 
@@ -35,7 +35,7 @@
 
   <div align="left">
 
-  ${{\color{VioletRed}\Large{\textsf{DNI LIST! ( ˶°ㅁ°)!!\ \}}}}\$  <br> 
+  ${{\color{00B5BD}\Large{\textsf{DNI LIST! ( ˶°ㅁ°)!!\ \}}}}\$  <br> 
 
 </div>
 <p> ♫ ~ <!-- you're safe to end anything beyond this --> Basic DNI! FNAF Fandom! KYS/KMS Jokes! Any Jokes about death/dying! Jokes about killing us! Any jokes about sources! Random fandomites in general! (if you can be normal and respectful, iwc) <!-- you're safe to end anything before this --> <br> </p>
