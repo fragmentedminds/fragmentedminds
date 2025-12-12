@@ -18,9 +18,9 @@
 
   <img align="left" height="200" width="200" src="https://graphic.neocities.org/cipher_1.gif">
   
-  ${{\color{VioletRed}\Large{\textsf{INT LIST!    (˵ •̀ ᴗ - ˵ )\ \}}}}\$  <br> 
+  ${{\color{VioletRed}\Large{\textsf{INTERESTS LIST!    (˵ •̀ ᴗ - ˵ )\ \}}}}\$  <br> 
 
-♫ ~ <!-- you're safe to end anything beyond this --> Nice people! Friends! <!-- you're safe to end anything before this --> <br>
+♫ ~ <!-- you're safe to end anything beyond this --> Nice people! Friends! Vocaloid! FIVE NIGHTS AT FREDDYS! THE WALTEN FILES! THE MANDELA CATALOGUE! BLUEY! MY LITTLE PONY! BATMAN! COMIC BOOKS! WARRIOR CATS! <!-- you're safe to end anything before this --> <br>
     <!-- Replace the 'text' with info about yourself! -->
     <p align="center">
   ${{\color{VioletRed}\large{\textsf{⇄⠀⠀⠀◁◁⠀ ▐  ▌ ⠀▷▷  ⠀ ⠀↻\ \}}}}\$  <br>
