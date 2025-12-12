@@ -2,7 +2,8 @@
 <p align="center">
   <img src= https://i.postimg.cc/Dfxx8fhV/2025_12_12_04m_Kleki.png>
   <img src="https://i.postimg.cc/660w1ZNY/2025-12-12-04o-Kleki.png">
- 
+
+ <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=1000&pause=1000&color=00B5BD&center=true&multiline=true&width=435&height=79&lines=BILL+CIPHER+.+.+.;.+.+.+DNI+BILL+SHIPS+!!!" alt="Typing SVG" /></a>
 
 <div align="center">
@@ -17,9 +18,9 @@
 
   <img align="left" height="200" width="200" src="https://graphic.neocities.org/cipher_1.gif">
   
-  ${{\color{VioletRed}\Large{\textsf{YES YES YES!    (˵ •̀ ᴗ - ˵ )\ \}}}}\$  <br> 
+  ${{\color{VioletRed}\Large{\textsf{INT LIST!    (˵ •̀ ᴗ - ˵ )\ \}}}}\$  <br> 
 
-♫ ~ <!-- you're safe to end anything beyond this --> dont feel forced to fill in the entire area! text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <!-- you're safe to end anything before this --> <br>
+♫ ~ <!-- you're safe to end anything beyond this --> Nice people! Friends! <!-- you're safe to end anything before this --> <br>
     <!-- Replace the 'text' with info about yourself! -->
     <p align="center">
   ${{\color{VioletRed}\large{\textsf{⇄⠀⠀⠀◁◁⠀ ▐  ▌ ⠀▷▷  ⠀ ⠀↻\ \}}}}\$  <br>
@@ -34,10 +35,10 @@
 
   <div align="left">
 
-  ${{\color{VioletRed}\Large{\textsf{NO NO NO! ( ˶°ㅁ°)!!\ \}}}}\$  <br> 
+  ${{\color{VioletRed}\Large{\textsf{DNI LIST! ( ˶°ㅁ°)!!\ \}}}}\$  <br> 
 
 </div>
-<p> ♫ ~ <!-- you're safe to end anything beyond this --> dont feel forced to fill in the entire area! text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <!-- you're safe to end anything before this --> <br> </p>
+<p> ♫ ~ <!-- you're safe to end anything beyond this --> Basic DNI! FNAF Fandom! KYS/KMS Jokes! Any Jokes about death/dying! Jokes about killing us! Any jokes about sources! Random fandomites in general! (if you can be normal and respectful, iwc) <!-- you're safe to end anything before this --> <br> </p>
     <!-- Replace the 'text' with info about people you do not want interacting  --> 
     <div align="center">
      
