@@ -1,6 +1,6 @@
  <!-- template is made for laptop/desktop, but it's not completely broken on mobile. -->
 <p align="center">
-  <img src= https://i.postimg.cc/Dfxx8fhV/2025_12_12_04m_Kleki.png>
+  <img src="https://i.postimg.cc/dQ55LQYz/2025_12_12_04n_Kleki.png">
   <img src="https://i.postimg.cc/660w1ZNY/2025-12-12-04o-Kleki.png">
 
  <p align="center">
@@ -52,7 +52,7 @@
 <img src="https://graphic.neocities.org/cipher_3.gif">
 
 <img src=https://i.postimg.cc/660w1ZNY/2025-12-12-04o-Kleki.png>
-<img src="https://i.postimg.cc/dQ55LQYz/2025_12_12_04n_Kleki.png">
+<img src= https://i.postimg.cc/Dfxx8fhV/2025_12_12_04m_Kleki.png>
 
 </p>
 
